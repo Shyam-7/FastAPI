@@ -1,3 +1,9 @@
 fastapi
 sqlalchemy
 psycopg2-binary
+langchain
+langchain-openai
+langgraph
+pypdf
+python-docx
+python-multipart
