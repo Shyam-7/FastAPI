@@ -1,3 +1,11 @@
 fastapi
 sqlalchemy
 psycopg2-binary
+pypdf
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+docx2txt
+tiktoken
+lxml
